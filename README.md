@@ -1,2 +1,1 @@
-# cursodehenry
-mi primer proyecto de estudio modulo 2
+este es un proyecto de juan 
